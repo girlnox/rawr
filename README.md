@@ -15,3 +15,12 @@ once you chose the right binary for your architecture just simply rename it to "
 and move it to a folder in your $PATH.
 
 (there will be an install script later on)
+
+# Usage
+Run `rawr help` for a similar set of instructions
+
+`rawr get [port]`: host an upload server for receiving packages
+`rawr give [file] [ip_address:port]`: give a package to an open host
+`rawr pack [folder]`: create a rawr package
+`rawr unpack [package]`: unpack a rawr package
+`rawr help/--help/(nothing)`: Display this message
