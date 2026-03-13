@@ -1,0 +1,4 @@
+obexftp
+curl
+zip
+unzip
