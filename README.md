@@ -9,7 +9,7 @@ Also rawr is and will always be able to just function as a simple file sharing s
 # Installation
 To install this project you could either grab a binary from the release section or
 clone the repo ( `git clone https://github.com/girlnox/rawr.git` ) and run
-the export.sh script in the root of the project by simple running `./export.sh`
+the export.sh script in the root of the project by simple running `./export.sh` (make sure you have the dependencies listed in the dependencies.txt file installed)
 
 once you chose the right binary for your architecture just simply rename it to "`rawr`"
 and move it to a folder in your $PATH.
