@@ -17,8 +17,6 @@ and move it to a folder in your $PATH.
 (there will be an install script later on)
 
 # Usage
-Run `rawr help` for a similar set of instructions
-
 `rawr get [port]`: host an upload server for receiving packages
 
 `rawr give [file] [ip_address:port]`: give a package to an open host
