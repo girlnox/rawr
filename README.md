@@ -13,7 +13,7 @@ To install this project you could either grab a binary from the release section 
 clone the repo ( `git clone https://github.com/girlnox/rawr.git` ) and run
 the export.sh script in the root of the project by simple running `./export.sh` (make sure you have the dependencies listed in the dependencies.txt file installed)
 
-once you chose the right binary for your architecture just simply rename it to "`rawr`"
+once you chose the right binary for your architecture from the `exports/` directory just simply rename it to "`rawr`"
 and move it to a folder in your $PATH.
 
 (there will be an install script later on)
