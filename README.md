@@ -19,11 +19,13 @@ and move it to a folder in your $PATH.
 (there will be an install script later on)
 
 # Usage
-`rawr get [port]`: host an upload server for receiving packages
+`rawr receive [port]`: host an upload server for receiving packages
+`rawr serve [port] [directory]`: host a download server for downloading packages 
 
-`rawr give [file] [ip_address:port]`: give a package to an open host
+`rawr give [file] [ip:port]`: give a package to an open upload server
+`rawr get [package_path] [ip:port]`: get a package from an open download server
 
-`rawr pack [folder]`: create a rawr package
+`rawr pack [directory]`: create a rawr package
 
 `rawr unpack [package]`: unpack a rawr package
 
