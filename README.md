@@ -20,13 +20,18 @@ and move it to a folder in your $PATH.
 
 # Usage
 `rawr receive [port]`: host an upload server for receiving packages
+
 `rawr serve [port] [directory]`: host a download server for downloading packages 
 
+
 `rawr give [file] [ip:port]`: give a package to an open upload server
+
 `rawr get [package_path] [ip:port]`: get a package from an open download server
+
 
 `rawr pack [directory]`: create a rawr package
 
 `rawr unpack [package]`: unpack a rawr package
+
 
 `rawr help/--help/(nothing)`: Display this message
